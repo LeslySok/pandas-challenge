@@ -92,8 +92,6 @@ The final reports includes each of the following:
 ## Top Spenders
 
 
-### Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-
    * SN
 
    * Purchase Count
@@ -108,8 +106,6 @@ The final reports includes each of the following:
 
 ## Most Popular Items
 
-
-### Identify the 5 most popular items by purchase count, then list (in a table):
 
   * Item ID
 
@@ -127,7 +123,6 @@ The final reports includes each of the following:
 
 ## Most Profitable Items
 
-### Identify the 5 most profitable items by total purchase value, then list (in a table):
 
   * Item ID
   
@@ -141,3 +136,13 @@ The final reports includes each of the following:
 
 
 ![](Images/9most_profitable_image.png)
+
+
+## Observation Trends
+
+  * The majority of the Players are Males. Totalling 70% more Male Players than Female Players. 
+  * Although Males purchase more games than Female, Female's Average Purchase Price is higher by $0.18 than Males. 
+  * The highest age group of Players are between the ages 20 - 24, overall 45% of the total age group.
+  * Final Critic is the Most Popular and Most Profitable Game.
+  
+  
