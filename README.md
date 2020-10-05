@@ -64,41 +64,33 @@ The final reports includes each of the following:
 
 #### The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-   * Purchase Count
+   * Total Count
 
-   * Average Purchase Price
+   * Percentage of Players
 
-   * Total Purchase Value
-
-   * Average Purchase Total per Person by Age Group
    
 ![](Images/5age_demographics_image.png)
 
 
-Most Popular Items
-
-Identify the 5 most popular items by purchase count, then list (in a table):
-
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+## Age Demographics
 
 
+#### The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+
+  * Purchase Count
+
+  * Average Purchase Price
+
+  * Total Purchase Value
+
+  * Average Purchase Total per Person by Age Group
 
 
-Most Profitable Items
+![](Images/6age_purchasing_analysis_image.png) 
 
-Identify the 5 most profitable items by total purchase value, then list (in a table):
-
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
 
 ## Top Spenders
+
 
 ### Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
 
@@ -109,3 +101,43 @@ Total Purchase Value
    * Average Purchase Price
 
    * Total Purchase Value
+
+
+![](Images/7top_spender_image.png)
+
+
+## Most Popular Items
+
+
+### Identify the 5 most popular items by purchase count, then list (in a table):
+
+  * Item ID
+
+  * Item Name
+
+  * Purchase Count
+
+  * Item Price
+
+  * Total Purchase Value
+
+
+![](Images/8most_popular_image.png)
+
+
+## Most Profitable Items
+
+### Identify the 5 most profitable items by total purchase value, then list (in a table):
+
+  * Item ID
+  
+  * Item Name
+  
+  * Purchase Count
+  
+  * Item Price
+  
+  * Total Purchase Value
+
+
+![](Images/9most_profitable_image.png)
