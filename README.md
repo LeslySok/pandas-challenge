@@ -14,6 +14,10 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 The final reports includes each of the following:
 
+### Jupyter Notebook Link
+
+http://localhost:8890/notebooks/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb#
+
 ## Player Count
 
    * Total Number of Players
