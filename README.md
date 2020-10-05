@@ -7,8 +7,8 @@ The "Resources" folder contains the CSV files "purchase_data" that was used.
 
 ## Heroes of Pymoli
 
-![](images/Fantasy_image.png)
+![](Images/Fantasy_image.png)
 
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As my first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As my first task, I have generate a report that breaks down the game's purchasing data into meaningful insights.
 
